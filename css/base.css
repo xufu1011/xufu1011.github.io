@@ -1,0 +1,181 @@
+*{  margin: 0;padding: 0;  }
+ul ,ol{list-style: none}
+
+img{ border: 0 none;  vertical-align: top;  }
+
+.cf:after{ content: ''; display: table; clear: both}
+
+.cf{*zoom: 1;}
+
+body{font-family: "Segoe UI Light" ,Calibri;font-size: 14px}
+a{ text-decoration: none;}
+
+
+.nav{
+    height: 130px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.logo{
+    margin-top:35px ;
+    float: left;
+}
+.log{
+    height: 43px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 25px;
+    color: #999999;
+    border-left: 1px solid #dcdcdc;
+    padding-left: 25px;
+    line-height: 18px;
+}
+.for{
+    float: right;
+    margin-top: 25px;
+}
+.tex,.btn{
+    float: left;
+}
+.tex{
+    width: 297px;height: 40px;outline: none;border: 1px solid #dcdcdc;border-right: 0 none;padding-left: 13px;
+}
+.btn{width:44px;height: 42px;background: #ff5842 url(../images/shousuo.png) no-repeat center;border: 0 none; cursor: pointer}
+.daohang{
+    position: relative;
+    left:0;top: 89px;
+}
+.daohang-g{
+    width: 1200px;
+    height: 29px;
+    position: absolute;
+}
+.daohang ul li{
+    float: left;
+    margin-right: 49px;
+    font-size: 20px;
+
+}
+.daohang ul li a{color: #686868}
+.daohang ul li a:hover{color: #ff5842}
+.daohang-you a{
+    display: block;
+    float: left;
+    background: red;
+    width: 63px;
+    height: 27px;
+    position: relative;top: -27px;
+    text-align: center;
+    color: #686868;
+
+}
+.daohang-you a:active{background: #a1a1a1}
+.daohang-you{
+    position: relative;
+    right: -1070px;top: 89px;
+    width: 130px;
+    height: 27px;
+    line-height: 27px;
+
+}
+.you-two{margin-left: 3px}
+
+
+
+/**/
+
+.float-top{
+    width: 100%;
+    height: 210px;
+    background: #222f35;
+
+}
+
+.float-g{
+    width: 1200px;
+    height: 210px;
+    margin: 0 auto;
+}
+.float-one{
+    width: 360px;
+    height:210px;
+    float: left;
+}
+.float-two{
+    width: 634px;
+    height:210px;
+    float: right;
+
+}
+.one{
+    width: 360px;
+    height: 73px;
+    position: absolute;
+}
+.zhazha{
+    vertical-align: middle;
+    position: relative;
+    left: 0;top: 0;
+    line-height: 73px;
+    font-size: 24px;
+    color: #ffffff;
+}
+.zhazha img{
+    margin-right: 9px;
+    margin-top: 20px;
+}
+.two{
+    color: #82a0ad;
+}
+.tow-one{
+    width: 135px;
+    height: 135px;
+    float:left ;
+    margin-left: 70px;
+
+}
+.div-two{
+    width: 100px;
+}
+.div-two a{color: #82a0ad;}
+.div-two a:hover{ color:white;}
+.div-one{
+    width: 135px;
+    height: 73px;
+    line-height: 73px;
+    font-size: 24px;
+    color: #ffffff;
+}
+.float-bottom{
+    width: 100%;
+    height: 53px;
+    background: #172125;
+}
+.bottom-one{
+    width: 1200px;
+    height: 53px;
+
+    margin: 0 auto;
+}
+.sm{
+    color: #82a0ad;
+    line-height: 53px;
+    float: left;
+}
+.tu{
+    float: right;
+    width: 160px;
+    height: 53px;
+
+}
+.tu a{
+    display: block;
+    height: 37px;
+    width: 37px;
+    float: left;
+    margin-top: 7px;
+    margin-right: 2px;
+    background-color: #222f35;
+}
+.tu a:hover{ background-color:#686868}
+

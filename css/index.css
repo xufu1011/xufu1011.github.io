@@ -1,0 +1,777 @@
+.xixian {
+    width: 100%;
+    height: 5px;
+    background-color: #f24933;
+}
+
+.lj {
+    width: 100%;
+    height: 47px;
+    background-color: #ff5842;
+
+}
+
+.ljg {
+    width: 1200px;
+    height: 47px;
+    margin: 0 auto;
+
+}
+
+.ljg div {
+    float: left;
+}
+
+.ljg div a div {
+    font-size: 16px;
+    color: white;
+    line-height: 47px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.ljg div a div:hover {
+    background-color: #f24933;
+
+}
+
+.center {
+    width: 1200px;
+    height: 73px;
+    margin: 0 auto;
+}
+
+.center-top {
+    float: left;
+
+}
+
+.center-bot {
+    float: right;
+}
+
+.top-one, .top-two, .bot-one, .bot-two {
+    float: left;
+
+}
+
+.top-one {
+    margin-top: 20px;
+    margin-right: 7px;
+
+}
+
+.top-two {
+    margin-top: 18px;
+    font-size: 26px;
+}
+
+.bot-one, .bot-two {
+    width: 41px;
+    height: 41px;
+    margin-top: 16px;
+    background-color: #f5f5f5;
+
+}
+
+.bot-one, .bot-two:hover {
+    background-color: #eeeeee;
+    cursor: pointer;
+}
+
+.bot-two {
+    margin-left: 1px;
+}
+
+.tu-one {
+    width: 1200px;
+    height: 327px;
+    margin: 0 auto;
+}
+
+.one-one {
+    width: 386px;
+    float: left;
+    margin-right: 20px;
+
+}
+
+.tui img {
+    width: 386px;
+    height: 223px;
+    background-color: #121212;
+}
+
+.zi {
+    font-size: 18px;
+    width: 300px;
+    padding-left: 6px;
+    margin-bottom: 0;
+
+    color: #1f1f1f;
+}
+
+.gr {
+    float: right;
+}
+
+.zi-bot span {
+    color: #ff5842;
+}
+
+.zi-bot {
+    margin-left: 6px;
+    margin-top: 15px;
+}
+
+.tu-xian {
+    width: 100%;
+    height: 5px;
+    background-color: #ff5842;
+
+}
+
+.tu-hui {
+    height: 100px;
+    border-right: 2px solid #f8f8f8;
+    border-left: 2px solid #f8f8f8;
+}
+
+.er-tu {
+    width: 1200px;
+    margin: 0 auto;
+    line-height: 72px;
+}
+
+.er-zuo {
+    float: left;
+    font-size: 24px;
+}
+
+.er-you {
+    float: right;
+    font-size: 24px;
+    width: 300px;
+    height: 72px;
+
+}
+
+.big-you {
+    width: 300px;
+    height: 72px;
+}
+
+.er-zuo img, .er-you img {
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.dage {
+    width: 1200px;
+
+    margin: 0 auto;
+}
+
+.d-zuo {
+    width: 880px;
+
+    float: left;
+
+}
+
+.d-you {
+    width: 300px;
+
+    float: right;
+    overflow: hidden;
+
+}
+
+.topic {
+    height: 400px;
+    width: 880px;
+    position: relative;
+
+}
+
+.topic img {
+    width: 880px;
+    height: 400px;
+}
+
+.pic {
+    width: 604px;
+    height: 119px;
+    background-color: #2b2b2b;
+    float: left;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+.pic-one {
+    font-size: 19px;
+    color: #ffffff;
+    margin-left: 5px;
+}
+
+.pic-two {
+    font-size: 16px;
+    color: #ffffff;
+    margin-left: 5px;
+}
+
+.pic-jian {
+    float: right;
+    width: 84px;
+    height: 41px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.pic-jian img {
+    width: 41px;
+    height: 41px;
+    float: left;
+    margin-right: 1px;
+    opacity: .7;
+    filter: alpha(opacity=70)
+}
+
+.pic-jian img:hover {
+    opacity: .8;
+    filter: alpha(opacity=80)
+}
+
+.pic-xian {
+    width: 880px;
+    height: 5px;
+    background-color: #ff5842;
+}
+
+.div-ul ul {
+    width: 330px;
+}
+
+.div-ul li {
+    float: left;
+
+}
+
+.div-ul li a {
+    display: block;
+    width: 45px;
+    height: 45px;
+    margin: 0 6px 6px 0;
+    opacity: .7;
+    filter: alpha(opacity=70)
+}
+
+.div-ul li a:hover {
+    opacity: .8;
+    filter: alpha(opacity=80)
+}
+
+.div-ul li a.a-1 {
+    background: url(../images/datu.png) no-repeat 0 0
+}
+
+.div-ul li a.a-2 {
+    background: url(../images/datu.png) no-repeat -51px 0
+}
+
+.div-ul li a.a-3 {
+    background: url(../images/datu.png) no-repeat -102px 0
+}
+
+.div-ul li a.a-4 {
+    background: url(../images/datu.png) no-repeat -153px 0
+}
+
+.div-ul li a.a-5 {
+    background: url(../images/datu.png) no-repeat -204px 0
+}
+
+.div-ul li a.a-6 {
+    background: url(../images/datu.png) no-repeat -255px 0
+}
+
+.div-ul li a.a-7 {
+    background: url(../images/datu.png) no-repeat 0 -51px
+}
+
+.div-ul li a.a-8 {
+    background: url(../images/datu.png) no-repeat -51px -51px
+}
+
+.div-ul li a.a-9 {
+    background: url(../images/datu.png) no-repeat -102px -51px
+}
+
+.div-ul li a.a-10 {
+    background: url(../images/datu.png) no-repeat -153px -51px
+}
+
+.div-ul li a.a-11 {
+    background: url(../images/datu.png) no-repeat -204px -51px
+}
+
+.div-ul li a.a-12 {
+    background: url(../images/datu.png) no-repeat -255px -51px
+}
+
+.div-ul li a.a-13 {
+    background: url(../images/datu.png) no-repeat 0 -102px
+}
+
+.div-ul li a.a-14 {
+    background: url(../images/datu.png) no-repeat -51px -102px
+}
+
+.div-ul li a.a-15 {
+    background: url(../images/datu.png) no-repeat -102px -102px
+}
+
+.div-ul li a.a-16 {
+    background: url(../images/datu.png) no-repeat -153px -102px
+}
+
+.div-ul li a.a-17 {
+    background: url(../images/datu.png) no-repeat -204px -102px
+}
+
+.div-ul li a.a-18 {
+    background: url(../images/datu.png) no-repeat -255px -102px
+}
+
+.list {
+    width: 300px;
+    height: 160px;
+
+    overflow: hidden;
+}
+
+.list ul {
+    width: 306px;
+    height: 160px;
+}
+
+.list ul li {
+    width: 149px;
+    height: 38px;
+    background-color: #f6f6f6;
+    float: left;
+    margin: 0 2px 2px 0;
+}
+
+.list ul li a {
+    display: block;
+    width: 149px;
+    height: 38px;
+    line-height: 38px;
+    text-align: center;
+    color: #8f8f8f;
+}
+
+.list ul li a:hover {
+    color: white;
+    background-color: #ff5842;
+}
+
+.adver img {
+    width: 300px;
+    height: 250px;
+}
+
+.popu-xian {
+    width: 300px;
+    height: 5px;
+    background-color: #f24933;
+}
+
+.popu {
+    width: 300px;
+    height: 52px;
+    margin-top: 20px;
+}
+
+.popu ul li {
+    width: 100px;
+    height: 47px;
+    float: left;
+    background-color: #ff5842;
+}
+
+.popu ul li a {
+    display: block;
+    width: 100px;
+    height: 47px;
+    color: white;
+    font-size: 16px;
+    line-height: 47px;
+    text-align: center;
+}
+
+.popu ul li a:hover {
+    background-color: #f24933;
+}
+
+.how {
+    width: 300px;
+    height: 567px;
+
+    border-left: 2px solid #f8f8f8;
+    border-right: 2px solid #f8f8f8;
+    border-bottom: 2px solid #f8f8f8;
+}
+
+.how-one {
+    width: 276px;
+    height: 112px;
+    border-bottom: 2px solid #f8f8f8;
+    margin: auto;
+}
+
+.how-two {
+    height: 90px;
+    width: 90px;
+    float: left;
+}
+
+.how-two img {
+    height: 90px;
+    width: 90px;
+    margin-top: 10px;
+
+}
+
+.how-zi {
+    float: right;
+    width: 180px;
+    height: 90px;
+    margin-top: 10px;
+
+}
+
+.zi-one {
+    font-size: 16px;
+}
+
+.zi-sp {
+    font-size: 12px;
+    color: #dbdbdb;
+}
+
+.zi-sp span {
+    color: #ff5842;
+}
+
+.tag {
+    width: 300px;
+    height: 114px;
+}
+
+.tag a {
+    float: left;
+    display: block;
+    padding: 0 10px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    background-color: #f6f6f6;
+    color: #8f8f8f;
+    margin: 0 3px 3px 0;
+
+}
+
+.tag a:hover {
+    color: white;
+    background-color: #ff5842;
+}
+
+.video img {
+    width: 300px;
+    height: 200px;
+}
+
+.twi {
+    width: 300px;
+
+}
+
+.twi a {
+    display: block;
+    width: 300px;
+    height: 52px;
+    background-color: #f6f6f6;
+    margin-bottom: 2px
+}
+
+.twi a:hover {
+    background-color: #50b4e6;
+}
+
+.twi-d {
+    height: 52px;
+    width: 300px
+}
+
+.twi-img {
+    float: left
+}
+
+.twi-zi {
+    font-size: 12px;
+    width: 240px;
+    height: 47px;
+    float: left;
+    color: #9f9f9f;
+    padding-top: 5px
+}
+
+.twi-zi:hover {
+    color: white
+}
+
+.new {
+    font-size: 16px;
+    color: #555555
+}
+
+.haha-two {
+    width: 90px;
+    height: 43px;
+    border: none;
+    background-color: #ff5842;
+    color: white
+}
+
+.haha-one {
+    width: 209px;
+    height: 41px;
+    border: 1px solid #dcdcdc;
+    border-right: none;
+    outline: none;
+    text-indent: 2em
+}
+
+.haha {
+    margin-top: 15px
+}
+
+/*左边部分*/
+.enter-zuo {
+    width: 420px;
+    height: 420px;
+    position: relative;
+    float: left
+}
+
+.zuohong {
+    width: 420px;
+    height: 5px;
+    background-color: #ff5842;
+    margin-top: 25px
+}
+
+.enter-datu img {
+    width: 420px;
+    height: 190px
+}
+
+.skt {
+    position: absolute;
+    left: 0;
+    top: 0
+}
+
+.xz-1 {
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 10px
+}
+
+.xz-2 {
+    font-size: 12px;
+    color: #9f9f9f;
+    margin-top: 10px;
+    margin-left: 20px
+}
+
+.xz-2 span {
+    color: #ff5842
+}
+
+.sto {
+    width: 30px;
+    height: 50px;
+    border: 1px solid red
+}
+
+.xx {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.xx img {
+    float: left;
+}
+
+.xdx {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 14px;
+    color: #777777
+}
+
+.xdx span {
+    color: #ff5842
+}
+
+/*四个小块*/
+.enter-you {
+    width: 450px;
+    height: 422px;
+    float: left;
+    margin-left: 10px
+}
+
+.ery {
+    width: 220px;
+    height: 200px;
+    float: left;
+    margin-left: 5px
+}
+
+.ery .ery-imgone {
+    width: 220px;
+    height: 100px;
+}
+
+.ery-1 {
+    font-size: 16px;
+    margin-left: 5px
+}
+
+.ery-2 {
+    font-size: 12px;
+    color: #9f9f9f;
+    margin-top: 10px;
+    margin-left: 5px
+}
+
+.ery-2 span {
+    color: #ff5842
+}
+
+.ery-bottom {
+    margin-top: 10px;
+    margin-left: 5px
+}
+
+.ery-bottom img {
+    float: left
+}
+
+.enter-2 {
+    margin-top: 18px
+}
+
+/*tech部分*/
+.tech {
+    width: 880px;
+}
+
+.tech-1 {
+    float: left
+}
+
+.tech-img {
+    width: 435px;
+    height: 190px
+}
+
+.tech-2 {
+    float: left;
+    margin-left: 10px
+}
+
+.tech-1-1 {
+    margin-left: 20px;
+    margin-top: 10px
+}
+
+.tech-1-1 img {
+    float: left
+}
+
+.tech-img-one {
+    width: 285px;
+    height: 130px
+}
+
+.tech-1-x {
+    width: 285px;
+    float: left;
+    margin-top: 10px
+}
+
+.tech-1-c {
+    width: 285px;
+    float: left;
+    margin-left: 13px;
+    margin-top: 10px
+}
+
+.tech-1-v {
+    width: 285px;
+    float: right;
+    margin-top: 10px
+}
+
+/*env部分*/
+.center-1 {
+    width: 880px;
+    height: 73px
+}
+
+.env {
+    width: 880px
+}
+
+.env-img {
+    width: 880px;
+    height: 400px
+}
+
+.env-bot {
+    margin-top: 30px
+}
+
+.eb-1 {
+    width: 880px;
+    height: 112px
+}
+
+.eb-img {
+    width: 90px;
+    height: 90px;
+    float: left
+}
+
+.eb-p {
+    float: left;
+    height: 90px;
+    width: 335px
+}
+
+.eb-1-1 {
+    float: left;
+    width: 435px;
+    height: 90px
+}
+
+.eb-1-2 {
+    float: right
+}
