@@ -37,7 +37,6 @@
 
 .center {
     width: 1200px;
-    height: 73px;
     margin: 0 auto;
 }
 
@@ -82,26 +81,27 @@
 .bot-two {
     margin-left: 1px;
 }
-
-.tu-one {
-    width: 1200px;
-    height: 327px;
-    margin: 0 auto;
+#indexBanner{
+    width: 12000px;
+    position: absolute;
 }
-
-.one-one {
+#indexBanner li{
     width: 386px;
+    height: 350px;
+    margin: 10px;
     float: left;
-    margin-right: 20px;
-
 }
-
-.tui img {
+#indexBanner li img{
     width: 386px;
-    height: 223px;
-    background-color: #121212;
+    height: 350px;
 }
-
+.index-banner-wrap{
+    width: 1200px;
+    height: 350px;
+    overflow: hidden;
+    margin: 0 auto;
+    position: relative;
+}
 .zi {
     font-size: 18px;
     width: 300px;
@@ -111,9 +111,6 @@
     color: #1f1f1f;
 }
 
-.gr {
-    float: right;
-}
 
 .zi-bot span {
     color: #ff5842;
@@ -201,24 +198,49 @@
 
 .pic {
     width: 604px;
-    height: 119px;
+    height: 113px;
     background-color: #2b2b2b;
     float: left;
     position: absolute;
     bottom: 10px;
     left: 10px;
+    overflow: hidden;
+}
+.p1{
+    width: 604px;
+    height: 1130px;
+    position: absolute;
+    top: 0;
+}
+#toop{
+    height: 400px;
+    width: 8800px;
+    position: absolute;
+
+}
+.topi{
+    height: 400px;
+    width: 880px;
+    overflow: hidden;
+    position: relative;
+}
+#toop li{
+    float: left;
+
 }
 
 .pic-one {
     font-size: 19px;
     color: #ffffff;
     margin-left: 5px;
+    margin-top: 15px;
 }
 
 .pic-two {
     font-size: 16px;
     color: #ffffff;
     margin-left: 5px;
+    margin-top: 5px;
 }
 
 .pic-jian {
@@ -742,8 +764,22 @@
 
 .env-img {
     width: 880px;
-    height: 400px
+    height: 400px;
+    float: left;
 }
+#env{
+    width: 880px;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+}
+#env1{
+    width: 8800px;
+    height: 400px;
+    position: absolute;
+}
+
+
 
 .env-bot {
     margin-top: 30px
