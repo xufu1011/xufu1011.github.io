@@ -81,27 +81,32 @@
 .bot-two {
     margin-left: 1px;
 }
-#indexBanner{
+
+#indexBanner {
     width: 12000px;
     position: absolute;
 }
-#indexBanner li{
+
+#indexBanner li {
     width: 386px;
     height: 350px;
     margin: 10px;
     float: left;
 }
-#indexBanner li img{
+
+#indexBanner li img {
     width: 386px;
     height: 350px;
 }
-.index-banner-wrap{
+
+.index-banner-wrap {
     width: 1200px;
     height: 350px;
     overflow: hidden;
     margin: 0 auto;
     position: relative;
 }
+
 .zi {
     font-size: 18px;
     width: 300px;
@@ -110,7 +115,6 @@
 
     color: #1f1f1f;
 }
-
 
 .zi-bot span {
     color: #ff5842;
@@ -206,25 +210,29 @@
     left: 10px;
     overflow: hidden;
 }
-.p1{
+
+.p1 {
     width: 604px;
     height: 1130px;
     position: absolute;
     top: 0;
 }
-#toop{
+
+#toop {
     height: 400px;
     width: 8800px;
     position: absolute;
 
 }
-.topi{
+
+.topi {
     height: 400px;
     width: 880px;
     overflow: hidden;
     position: relative;
 }
-#toop li{
+
+#toop li {
     float: left;
 
 }
@@ -767,19 +775,19 @@
     height: 400px;
     float: left;
 }
-#env{
+
+#env {
     width: 880px;
     height: 400px;
     overflow: hidden;
     position: relative;
 }
-#env1{
+
+#env1 {
     width: 8800px;
     height: 400px;
     position: absolute;
 }
-
-
 
 .env-bot {
     margin-top: 30px
